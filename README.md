@@ -21,22 +21,22 @@ It helps people with hearing or speech disabilities communicate with others more
 Here are some screenshots of the SignSpeak app:
 
 
-!(https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(62).png)
+![Screenshot 62](https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(62).png)
 
 
-!(https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(64).png)
+![Screenshot 64](https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(64).png)
 
 
-!(https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(65).png)
+![Screenshot 65](https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(65).png)
 
 
-!(https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(66).png)
+![Screenshot 66](https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(66).png)
 
 
-!(https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(67).png)
+![Screenshot 67](https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(67).png)
 
 
-!(https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(68).png)
+![Screenshot 68](https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(68).png)
 
 
 ---
