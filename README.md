@@ -1,4 +1,4 @@
-# 🤟 SignSpeak - Real-time Indian Sign Language to Text & Speech
+# 🤟 SignSpeak - Real-time Sign Language to Text & Speech
 
 SignSpeak is an AI-powered system that understands **Sign Language** gestures in real time and converts them into **spoken and written language**.
 
@@ -16,9 +16,28 @@ It helps people with hearing or speech disabilities communicate with others more
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-*(Add a screenshot here later)*
+Here are some screenshots of the SignSpeak app:
+
+
+(https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(62).png)
+
+
+(https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(64).png)
+
+
+(https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(65).png)
+
+
+(https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(66).png)
+
+
+(https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(67).png)
+
+
+(https://github.com/mayurbangera/SignSpeak/blob/main/Screenshot%20(68).png)
+
 
 ---
 
@@ -39,18 +58,9 @@ It helps people with hearing or speech disabilities communicate with others more
 - MediaPipe
 - TensorFlow
 - gTTS (Google Text-to-Speech)
-- Flask / Streamlit
 
 ---
 
-## 🌟 Future Features
-
-- 🔁 Two-way communication (voice-to-sign)
-- 📷 OCR for signboards + captions
-- 🎓 AI training for custom user signs
-- 📱 Mobile version (Android/iOS)
-
----
 
 ## 👤 Author
 
@@ -60,8 +70,6 @@ It helps people with hearing or speech disabilities communicate with others more
 
 ---
 
-## 📃 License
 
-This project is open-source under the MIT License.
 
 
