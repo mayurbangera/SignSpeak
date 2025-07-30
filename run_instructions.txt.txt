@@ -1,0 +1,28 @@
+run_instructions.txt
+
+
+
+1. Open CMD or Terminal
+
+2. Go to the project folder:
+   cd "C:\Users\91886\OneDrive\Desktop\SignSpeak"
+   py -3.10 -m venv env
+
+3. Activate environment:
+   env\Scripts\activate
+
+4. Run the project:
+   python predict_sign.py
+
+5. To Capture new data
+    python data_capture.py
+
+6. To train the model
+   python train_model.py
+
+
+
+
+chatgpt:
+
+https://chatgpt.com/c/6858f71a-bc34-800d-ae00-c3be2b3ec1bd
